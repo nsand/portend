@@ -1,0 +1,23 @@
+{
+  "name": "portend",
+  "version": "0.1.0",
+  "description": "Treat emitted events as promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "keywords": [
+    "event",
+    "promise"
+  ],
+  "author": "Nick Sandonato <nick.sandonato@gmail.com>",
+  "license": "Apache-2.0",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
