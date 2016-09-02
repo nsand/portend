@@ -1,6 +1,7 @@
 # Portend
 
 [![Build Status](https://travis-ci.org/nsand/portend.svg?branch=master)](https://travis-ci.org/nsand/portend)
+[![Coverage Status](https://coveralls.io/repos/github/nsand/portend/badge.svg)](https://coveralls.io/github/nsand/portend)
 
 Portend is a utility for expecting a particular event to be emitted a specific number of times.
 
