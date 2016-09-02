@@ -1,5 +1,7 @@
 # Portend
 
+[![Build Status](https://travis-ci.org/nsand/portend.svg?branch=master)](https://travis-ci.org/nsand/portend)
+
 Portend is a utility for expecting a particular event to be emitted a specific number of times.
 
 It can be useful for writing tests in which a known number of events are expected to be emitted, and the test must wait before proceeding.
